@@ -11,4 +11,4 @@ A full-stack web application that allows users to input any word and the logic w
 - Learned how to check win conditions for each row/column/diagonal side. 
 - Learned how to place an X or O anywhere on the board  -->
 
-![AI Article Analyzer](/frontend/demodaymock.jpg)
+[Live Link](https://palindromeecheck.netlify.app/)
