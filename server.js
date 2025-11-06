@@ -20,6 +20,12 @@ const server = http.createServer(function(req, res) {
       res.write(data)
       res.end()
     })
+  }else if (page === '/style.css') {
+    fs.readFile('style.css', function(err, data) {
+      res.writeHead(200, {'Content-Type': 'text/css'})
+      res.write(data)
+      res.end()
+    })
   }
   else if (page === '/api') {
     if ('word' in params) {
