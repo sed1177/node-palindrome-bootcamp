@@ -14,4 +14,4 @@ A full-stack web application that allows users to input any word and the logic w
 ![Doomsday Poster](./palindrome.png)
 
 
-[Live Link](https://palindromeecheck.netlify.app/)
+[Live Link](https://node-palindrome-bootcamp-3h6c.onrender.com/)
